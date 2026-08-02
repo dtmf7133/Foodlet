@@ -10,7 +10,7 @@ When you are in the need of our mods:
 Please <a href="mailto:info@numode.eu">write to us</a> or refer to the <a href="http://foodlet.org">project website</a>.
 
 For any need of software additions, plugins and improvements please write to <a href="mailto:info@numode.eu">info@numode.eu</a>  
-To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox.io/l/dona1</a> and filling the form.  
+To help please donate by clicking <a href="https://numd.eu/l/dona1">https://numd.eu/l/dona1</a> and filling the form.  
      
 ## Screenshots
 	   
@@ -18,4 +18,4 @@ To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox
 
  ![Homomm on desktop](/Public/static/res/screenshot2.png) 
      
-Feedback: <a href="mailto:code@gaox.io">code@gaox.io</a>
+Feedback: <a href="mailto:code@numd.eu">code@numd.eu</a>
