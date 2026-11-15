@@ -10,7 +10,7 @@ When you are in the need of our mods:
 Please <a href="mailto:info@numode.eu">write to us</a> or refer to the <a href="http://foodlet.org">project website</a>.
 
 For any need of software additions, plugins and improvements please write to <a href="mailto:info@numode.eu">info@numode.eu</a>  
-To help please donate by clicking <a href="https://numd.eu/l/dona1">https://numd.eu/l/dona1</a> and filling the form.  
+To help please donate by clicking <a href="https://numd.bz/l/dona1">https://numd.bz/l/dona1</a> and filling the form.  
      
 ## Screenshots
 	   
